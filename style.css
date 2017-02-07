@@ -1,0 +1,120 @@
+ *{
+  	margin: 0;
+  	padding: 0;
+  	box-sizing: border-box;
+ }
+ 
+ body{
+	 background-image: url("bg.jpg");
+	 background-color:black;
+	 color:white;
+ }
+ 
+ .top-container{
+
+	margin:0px auto;
+	height:150px;
+	width:auto;
+	overflow:hidden;
+ }
+
+ 
+ #logo{
+	position:relative;
+	margin-top:30px;
+	text-align: center;	 
+ }
+ 
+ #social-media-container{
+ 	width:100px;
+ 	height:50px;
+ 	position:relative;
+ 	bottom:50px;
+ 	margin-left:70%;
+ 	margin-right:20%;
+ }
+ 
+ #sd{
+	 list-style-type: none;
+ }
+ 
+ #fb{
+	list-style-type: none;
+ 	margin-left:60%;
+ 	margin-top:-43%;
+ }
+ 
+ #email{
+	 list-style-type: none;
+	 margin-left: 115%;
+	 margin-top:-31%;
+ }
+ 
+ 
+ #seperator-line{
+	 border:1px solid rgb(96,96,96);
+	 width:40%;
+	 position:relative;
+	 margin-left:30%;
+	 bottom:20px;
+ }
+ 
+ .body-container{
+
+	 height:100%;
+	 width:100%;
+	 position:relative;
+	 bottom:22px;
+ }
+ 
+ h1{
+	text-align:center;
+ }
+ 
+ .main-body-text{
+	font-family: Quicksand, serif;
+	font-size:40px;
+	line-height: 1.3em;
+	text-transform:uppercase;
+	
+	width:70%;
+	position:relative;
+	margin:0 auto; /* centered*/
+	top:30px;
+	 
+ }
+ 
+.colorize{
+	color:#98ff98;
+}
+
+a{
+	color:white;
+	text-decoration: none;
+}
+
+a:hover{
+	color:#98ff98;
+}
+
+.page-button{
+	border:2px solid white;
+	text-transform: uppercase;
+	font-family:Quicksand, serif;
+	text-align: center;
+	padding:10px 5px 10px 5px;
+	
+	width:200px;
+	position:relative;
+	margin:0 auto; /* centered*/
+	top:100px;
+	
+	
+
+	
+	
+}
+
+ 
+
+ 
